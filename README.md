@@ -75,7 +75,7 @@
 <body>
 
 <header>
-    <img src="port2.jpg" alt="Your Photo">
+    <img src=""C:\ドキュメント\WEB DEV\port2.jpg" alt="Your Photo">
     <h1>MANAV SACHDEVA</h1>
     
 </header>
